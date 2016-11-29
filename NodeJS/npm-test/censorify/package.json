@@ -1,0 +1,11 @@
+{
+	"author"   : "Prakhar Pratyush",
+	"name"     : "censorify",
+	"version"  : "0.1.1",
+	"Description" : "censors words out of text",
+	"main" : "censortext",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}ss
